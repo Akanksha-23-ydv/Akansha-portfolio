@@ -1,15 +1,15 @@
 {
-  "name": "Aarav Sharma",
+  "name": "Akanksha yadav",
   "role": "Aspiring Full Stack Developer",
   "tagline": "Building modern web experiences with React.",
   "about": "I am a computer science student passionate about web development and solving real-world problems.",
   "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
   "interests": ["Web development", "Open source", "Problem solving", "UI design"],
   "profileImage": "/profile.png",
-  "email": "aarav@example.com",
+  "email": "akku.y0613",
   "socials": {
-    "github": "https://github.com/",
-    "linkedin": "https://linkedin.com/"
+    "github": "https://github.com/Akanksha-23-ydv",
+    "linkedin": "https://www.linkedin.com/in/akanksha-yadav-4a53a537b/"
   },
   "skills": [
     { "category": "Frontend", "items": ["HTML", "CSS", "JavaScript", "React.js"] },
@@ -46,8 +46,8 @@
   "education": [
     {
       "degree": "Bachelor of Computer Applications",
-      "college": "ABC College",
-      "year": "2026",
+      "college": "GL BAJAJ INSTITUTE OF MANAGEMENT",
+      "year": "2028",
       "description": "Studying programming and web development."
     }
   ]
